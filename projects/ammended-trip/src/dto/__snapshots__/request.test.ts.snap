@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Request parseRequest should throw when given invalid coordinates 1`] = `"Invalid query parameters."`;
+
+exports[`Request parseRequest should throw when given too few coordinates 1`] = `"Invalid query parameters."`;
+
+exports[`Request parseRequest should throw when given too many coordinates 1`] = `"Invalid query parameters."`;

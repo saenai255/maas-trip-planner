@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`co2-multipliers calculateCO2Emissions should throw when given an unknown mode 1`] = `"Could not find CO2 multiplier for transportation mode UNKNOWN"`;

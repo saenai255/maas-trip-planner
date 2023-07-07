@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OpenTripPlanner API tripPlanner should throw an error if the request fails 1`] = `"Failed to fetch routes"`;

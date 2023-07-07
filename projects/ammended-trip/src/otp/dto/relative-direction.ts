@@ -1,0 +1,15 @@
+export enum RelativeDirection {
+    Depart = 'DEPART',
+    HardLeft = 'HARD_LEFT',
+    Left = 'LEFT',
+    SlightLeft = 'SLIGHT_LEFT',
+    Continue = 'CONTINUE',
+    SlightRight = 'SLIGHT_RIGHT',
+    Right = 'RIGHT',
+    HardRight = 'HARD_RIGHT',
+    CircleClockwise = 'CIRCLE_CLOCKWISE',
+    CircleCounterClockwise = 'CIRCLE_COUNTERCLOCKWISE',
+    Elevator = 'ELEVATOR',
+    UTurnLeft = 'UTURN_LEFT',
+    UTurnRight = 'UTURN_RIGHT',
+}
